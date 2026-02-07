@@ -1,5 +1,58 @@
 # AI & Research
 
+## 2026-01-07
+
+### Kanban Workflow for Coding Agents
+**Author:** @geoffreylitt (Geoffrey Litt)  
+**Link:** https://x.com/geoffreylitt/status/2008735715195318397  
+**Saved:** 2026-02-07 21:59 IST
+
+Innovative workflow for managing coding agents on a kanban board. When an agent needs input, the task turns red to alert that it's blocked. You can respond directly on the card to unblock it. Seamless human-agent collaboration interface.
+
+**Engagement:** 2.5K likes, 100 retweets
+
+---
+
+## 2026-01-06
+
+### "Everything is Context" - Agentic File System Research
+**Author:** @rohan_paul_ai (Rohan Paul)  
+**Link:** https://x.com/rohanpaul_ai/status/2008445933424386074  
+**Saved:** 2026-02-07 21:59 IST
+
+Paper proposing agentic file systems where every memory, tool, external source, and human note appears as a file in a shared space. Treats AI context management like a file system with persistent context repositories, timestamps, and provenance logging.
+
+Key concepts:
+- Separates raw history, long-term memory, and short-lived scratchpads
+- Constructor to shrink context, updater to swap pieces, evaluator to check answers
+- Implemented in AIGNE framework
+
+**Paper:** arxiv.org/abs/2512.05470  
+**Engagement:** 1.7K likes, 227 retweets
+
+---
+
+## 2026-01-05
+
+### Bash Best Practices for Claude Code
+**Author:** @trq212 (Thariq)  
+**Link:** https://x.com/trq212/status/2008278253799195042  
+**Saved:** 2026-02-07 21:59 IST
+
+Excellent sparknotes on Claude Code architecture and best practices:
+
+**Key insights:**
+1. "Bash is all you need" - Composable, discoverable, uses existing software
+2. Agent loop: Gather context → Take action → Verify work
+3. Code generation for non-coding tasks (composing APIs)
+4. Tools vs Bash vs Codegen tradeoffs
+5. Skills are just folders (file system approach)
+6. Security = Swiss cheese defense (multiple layers)
+7. **#1 metalearning: Read your agent transcripts over and over**
+8. Every agent needs a container (file system + bash)
+
+---
+
 ## 2026-02-03
 
 ### Building a Fleet of Vertical Agents with Claude Code

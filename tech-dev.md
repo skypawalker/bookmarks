@@ -1,5 +1,31 @@
 # Tech & Dev
 
+## 2026-01-06
+
+### Agentic End-to-End Testing
+**Author:** @Swizec (Swizec Teller)  
+**Link:** https://x.com/Swizec/status/2008604784564244863  
+**Saved:** 2026-02-07 21:59 IST
+
+Novel approach to end-to-end testing using agents. E2E tests are flaky to run and annoying to write, but they're the best way to actually test your app. This agentic solution has been in development for 3 years.
+
+**v0.1.0 now on npm**
+
+---
+
+## 2026-01-05
+
+### Sharing Claude Code Configs
+**Author:** @dani_avila7 (Daniel San)  
+**Link:** https://x.com/dani_avila7/status/2008287584552653268  
+**Saved:** 2026-02-07 21:59 IST
+
+Community thread on Claude Code configurations. Sharing /config setups to learn from each other's workflows and optimization choices. Great resource for discovering Claude Code best practices through real examples.
+
+**Engagement:** 427 likes, 39 retweets
+
+---
+
 ## 2026-02-04
 
 ### Zed Code Completion Feature

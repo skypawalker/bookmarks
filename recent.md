@@ -2,6 +2,69 @@
 
 ## 2026-02-07
 
+### [Kanban Workflow for Coding Agents](https://x.com/geoffreylitt/status/2008735715195318397)
+**Category:** AI & Research  
+**Author:** @geoffreylitt  
+**Time:** 21:59 IST
+
+Managing coding agents on a kanban board. Tasks turn red when agents need input. Respond directly on cards to unblock.
+
+---
+
+### [Chrome Extension: Bookmarks → Working Code](https://x.com/BowTiedSwan/status/2008725212154491335)
+**Category:** Productivity  
+**Author:** @BowTiedSwan  
+**Time:** 21:59 IST
+
+Send any URL or X post to OpenCode - it reads, researches, implements, tests, and writes a report. One click → working code.
+
+---
+
+### [Agentic End-to-End Testing](https://x.com/Swizec/status/2008604784564244863)
+**Category:** Tech & Dev  
+**Author:** @Swizec  
+**Time:** 21:59 IST
+
+Novel agent-based approach to E2E testing. 3 years in development, v0.1.0 now on npm.
+
+---
+
+### [LocalBrief - Fully Local Dashboard](https://x.com/nikunj/status/2008551630195564663)
+**Category:** Productivity  
+**Author:** @nikunj  
+**Time:** 21:59 IST
+
+Privacy-first dashboard showing schedule, tasks, screen time. No AI, fully local, refreshes every 3 hours. One line install.
+
+---
+
+### ["Everything is Context" - Agentic File System Research](https://x.com/rohanpaul_ai/status/2008445933424386074)
+**Category:** AI & Research  
+**Author:** @rohan_paul_ai  
+**Time:** 21:59 IST
+
+Research paper proposing agentic file systems for AI context management. Everything (memory, tools, notes) as files with timestamps and provenance.
+
+---
+
+### [Sharing Claude Code Configs](https://x.com/dani_avila7/status/2008287584552653268)
+**Category:** Tech & Dev  
+**Author:** @dani_avila7  
+**Time:** 21:59 IST
+
+Community thread sharing /config setups. Learn from each other's Claude Code workflows and optimization choices.
+
+---
+
+### [Bash Best Practices for Claude Code](https://x.com/trq212/status/2008278253799195042)
+**Category:** AI & Research  
+**Author:** @trq212  
+**Time:** 21:59 IST
+
+Essential sparknotes: "Bash is all you need", agent loop architecture, tools vs bash tradeoffs, and the #1 metalearning - read your transcripts.
+
+---
+
 ### [Building a Fleet of Vertical Agents with Claude Code](https://x.com/alxfazio/status/2018744471857279438)
 **Category:** AI & Research  
 **Author:** @alxfazio  
