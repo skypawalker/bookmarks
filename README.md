@@ -1,0 +1,15 @@
+# X/Twitter Bookmarks
+
+Auto-collected and summarized bookmarks from @skypawalker's X/Twitter account.
+
+## Categories
+
+- [AI & Research](ai-research.md)
+- [Tech & Dev](tech-dev.md)
+- [Productivity](productivity.md)
+- [Interesting Threads](threads.md)
+- [Misc](misc.md)
+
+---
+
+**Last updated:** Auto-maintained by pawalker 🐾
