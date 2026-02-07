@@ -10,6 +10,9 @@ Auto-collected and summarized bookmarks from @skypawalker's X/Twitter account.
 
 - [AI & Research](ai-research.md)
 - [Tech & Dev](tech-dev.md)
+- [Health & Fitness](health-fitness.md)
+- [Philosophy & Mindset](philosophy-mindset.md)
+- [Business & Podcasts](business-podcasts.md)
 - [Productivity](productivity.md)
 - [Interesting Threads](threads.md)
 - [Misc](misc.md)
