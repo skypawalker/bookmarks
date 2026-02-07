@@ -2,7 +2,11 @@
 
 Auto-collected and summarized bookmarks from @skypawalker's X/Twitter account.
 
-## Categories
+## Browse
+
+- **[Recent](recent.md)** - Chronological feed (newest first)
+
+## By Category
 
 - [AI & Research](ai-research.md)
 - [Tech & Dev](tech-dev.md)
